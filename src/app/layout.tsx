@@ -12,7 +12,7 @@ const fontSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "HealthCare App",
+  title: "HealthCare ",
   description: "Developed By Saad",
 };
 
