@@ -12,7 +12,7 @@ export default function Home() {
             <Image src="/assets/icons/logo-full.svg" height={1000} width={1000} alt="Health care" className="mb-12 h-10 w-fit" />
             <PatientForm />
             <div className="text-14-regular mt-20 flex justify-between">
-              <p className="justify-items-end text-dark-600 xl:text-left">  © 2024 HealthCare</p>
+              <p className="justify-items-end text-dark-600 xl:text-left">  © 2024 HealthCare Center</p>
               <Link href="/?admin=true" className="text-green-500">
                 Admin</Link>
 
